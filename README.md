@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on scaling data-driven insights and automating reporting pipelines to support strategic business decisions.<br>🌱 I’m currently learning AWS, Kafka, and system design principles.<br>👯 I’m looking to collaborate on data science projects, especially those involving predictive modeling or large-scale data integration.<br>🤔 I’m looking for help with designing end-to-end data solutions and improving real-time data processing workflows.<br>💬 Ask me about SQL optimization, Python for data analytics, dashboard storytelling, or how to move from data analyst to data scientist.<br>📫 How to reach me: [goswal@masonlive.gmu.edu] or connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love turning complex data into simple stories—and I can explain regression models using coffee cups ☕📊<br>
+🔭 Currently: Enhancing data-driven decision-making and automating analytics workflows at Verizon, with a strong focus on scalable, impact-driven solutions.<br>🌱 Learning: Building deep expertise in Machine Learning, AWS, Apache Kafka, distributed systems, and system design to tackle real-world data science challenges at scale.<br>👯 Open to Collaborate: Particularly interested in applied ML, real-time data systems, and projects that simulate production-level data environments.<br>🤔 Looking for Help With: Designing high-performance data architectures, productionizing ML models, and mastering FAANG-level technical problem-solving.<br>💬 Ask Me About:
+ • Python for analytics and automation
+ • SQL performance tuning & data wrangling
+ • Communicating insights through dashboards and storytelling
+ • How to transition from analytics to advanced data science roles<br>📫 Reach Me: goswal@masonlive.gmu.edu or connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun Fact: I once explained logistic regression using a cup of coffee, a donut, and a whiteboard—data storytelling is my superpower ☕🍩📈<br>🎯 Goal: Working on something meaningful—watch this space.<br>
 
 
 ## 🌐 Socials:
