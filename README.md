@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-Currently: Enhancing data-driven decision-making and automating analytics workflows at Verizon, with a strong focus on scalable, impact-driven solutions.<br> Learning: Building deep expertise in AI,  Machine Learning, AWS, Apache Kafka, distributed systems, and system design to tackle real-world data science challenges at scale.<br> Open to Collaborate: Particularly interested in applied ML, real-time data systems, and projects that simulate production-level data environments.<br> Looking for Help With: Designing high-performance data architectures, productionizing ML models, and mastering FAANG-level technical problem-solving.<br> Ask Me About:
+Currently: Enhancing data-driven decision-making and automating analytics workflows at Verizon, with a strong focus on scalable, impact-driven solutions.<br> Learning: Building deep expertise in AI,  Machine Learning, AWS, Apache Kafka, distributed systems, and system design to tackle real-world data science challenges at scale.<br> Open to Collaborate: Interested in Gen-AI, applied ML, real-time data systems, and projects that simulate production-level data environments.<br> Looking for Help With: Designing high-performance data architectures, productionizing ML models, and mastering FAANG-level technical problem-solving.<br> Ask Me About:
  • Python for analytics and automation
  • SQL performance tuning & data wrangling
  • Communicating insights through dashboards and storytelling
