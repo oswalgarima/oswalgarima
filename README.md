@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-Currently: Driving data insights and automation at Verizon, while exploring Generative AI and real-time ML to build scalable, intelligent systems.<br> Learning: Expanding expertise in AI, ML, AWS, Kafka, and Distributed Systems to design scalable, real-world data science solutions.<br> Open to Collaborate: Generative AI, applied ML projects, and real-time data systems that simulate production environments.<br> Looking for Help With: Designing high-performance data architectures, scaling Generative AI solutions, productionizing ML models, and mastering FAANG-level system design and problem-solving.<br> Ask Me About:
+Currently: Driving data insights and automation at Verizon, while exploring Generative AI and real-time ML to build scalable, intelligent systems.<br> Learning: Expanding expertise in AI, ML, AWS, Kafka, and Distributed Systems to design scalable, real-world AI solutions.<br> Open to Collaborate: Generative AI, applied ML projects, and real-time data systems that simulate production environments.<br> Looking for Help With: Designing high-performance data architectures, scaling Generative AI solutions, productionizing ML models, and mastering FAANG-level system design and problem-solving.<br> Ask Me About:
  • Python for analytics, automation, and ML workflows
  • SQL optimization & large-scale data wrangling
  • Data storytelling through dashboards & visualizations
