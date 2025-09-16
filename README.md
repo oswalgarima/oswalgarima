@@ -1,12 +1,8 @@
 ## Hi there 👋
 
 # About Me:
-Currently: Driving data insights and automation at Verizon, while exploring Generative AI and real-time ML to build scalable, intelligent systems.<br> Learning: Expanding expertise in AI, ML, AWS, Kafka, and Distributed Systems to design scalable, real-world AI solutions.<br> Open to Collaborate: Generative AI, applied ML projects, and real-time data systems that simulate production environments.<br> Looking for Help With: Designing high-performance data architectures, scaling Generative AI solutions, productionizing ML models, mastering FAANG-level system design and problem-solving, transitioning from Data Scientist to AI Engineer roles.<br> Ask Me About:
-<br>• Python for analytics, automation, and ML workflows<br>
-<br>• SQL optimization & large-scale data wrangling<br>
-<br>• Data storytelling through dashboards & visualizations<br>
-<br>• Applying Generative AI & productionizing ML models<br>
-<br>• Transitioning from analytics into advanced data science roles<br> Reach Me: goswal@masonlive.gmu.edu or connect with me on LinkedIn<br> Pronouns: She/Her<br>⚡ Fun Fact: I once explained logistic regression using a cup of coffee, a donut, and a whiteboard—data storytelling is my superpower <br> Goal: Working on something meaningful—watch this space.<br>
+Currently: Driving data insights and automation at Verizon, while exploring Generative AI and real-time ML to build scalable, intelligent systems.<br> Learning: Expanding expertise in AI, ML, AWS, Kafka, and Distributed Systems to design scalable, real-world AI solutions.<br> Open to Collaborate: Generative AI, applied ML projects, and real-time data systems that simulate production environments.<br> Looking for Help With: Designing high-performance data architectures, scaling Generative AI solutions, productionizing ML models, mastering FAANG-level system design and problem-solving, transitioning from Data Scientist to AI Engineer roles.<br> Ask Me About:<br>• Python for analytics, automation, and ML workflows<br>
+• SQL optimization & large-scale data wrangling<br>• Data storytelling through dashboards & visualizations<br>• Applying Generative AI & productionizing ML models<br>• Transitioning from analytics into advanced data science roles<br> Reach Me: goswal@masonlive.gmu.edu or connect with me on LinkedIn<br> Pronouns: She/Her<br>⚡ Fun Fact: I once explained logistic regression using a cup of coffee, a donut, and a whiteboard—data storytelling is my superpower <br> Goal: Working on something meaningful—watch this space.<br>
 
 
 ## Socials:
